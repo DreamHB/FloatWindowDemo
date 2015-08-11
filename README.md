@@ -12,3 +12,5 @@ This is [am example] [id] reference-style link.
 _stress2_
 **stress3**
 __stress__
+
+Use the 'code()' function.
